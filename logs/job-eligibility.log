@@ -1,0 +1,47 @@
+2025-06-26 21:11:53.826 [main] INFO  c.j.JobEligibilityApplication - === Job Eligibility Evaluation System ===
+2025-06-26 21:11:53.848 [main] INFO  c.j.JobEligibilityApplication - Candidate Possessions: [driving license, bike]
+2025-06-26 21:11:53.853 [main] INFO  c.j.JobEligibilityApplication - Total Companies: 10
+2025-06-26 21:11:53.863 [main] INFO  c.j.service.JobEligibilityService - Eligibility evaluation completed. 1 out of 10 companies are eligible
+2025-06-26 21:11:53.865 [main] INFO  c.j.JobEligibilityApplication - === ELIGIBILITY RESULTS ===
+2025-06-26 21:11:53.865 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company A
+2025-06-26 21:11:53.874 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company B
+2025-06-26 21:11:53.874 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company K
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company G
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company H
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company J
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company C
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company D
+2025-06-26 21:11:53.875 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company E
+2025-06-26 21:11:53.876 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Company F
+2025-06-26 21:11:53.877 [main] INFO  c.j.JobEligibilityApplication - 
+=== SUMMARY ===
+2025-06-26 21:11:53.877 [main] INFO  c.j.JobEligibilityApplication - Eligible Companies: 1
+2025-06-26 21:11:53.877 [main] INFO  c.j.JobEligibilityApplication - Ineligible Companies: 9
+2025-06-26 21:11:53.878 [main] INFO  c.j.JobEligibilityApplication - Success Rate: {:.1f}%
+2025-06-26 21:11:53.878 [main] INFO  c.j.JobEligibilityApplication - 
+=== DETAILED ANALYSIS ===
+2025-06-26 21:11:53.885 [main] INFO  c.j.JobEligibilityApplication - 
+--- ELIGIBLE COMPANIES ---
+2025-06-26 21:11:53.888 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company J
+2025-06-26 21:11:53.889 [main] INFO  c.j.JobEligibilityApplication - 
+--- INELIGIBLE COMPANIES ---
+2025-06-26 21:11:53.894 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company A
+2025-06-26 21:11:53.895 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company B
+2025-06-26 21:11:53.896 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company K
+2025-06-26 21:11:53.896 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company G
+2025-06-26 21:11:53.897 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company H
+2025-06-26 21:11:53.897 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company C
+2025-06-26 21:11:53.897 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company D
+2025-06-26 21:11:53.897 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company E
+2025-06-26 21:11:53.899 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Requirements: Company F
+2025-06-26 21:11:53.899 [main] INFO  c.j.JobEligibilityApplication - 
+--- MISSING REQUIREMENTS ANALYSIS ---
+2025-06-26 21:11:53.902 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company A
+2025-06-26 21:11:53.902 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company B
+2025-06-26 21:11:53.904 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company K
+2025-06-26 21:11:53.904 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company G
+2025-06-26 21:11:53.904 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company H
+2025-06-26 21:11:53.904 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company C
+2025-06-26 21:11:53.905 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company D
+2025-06-26 21:11:53.905 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company E
+2025-06-26 21:11:53.905 [main] INFO  c.j.JobEligibilityApplication - {:<12}: Missing requirements for: Company F
