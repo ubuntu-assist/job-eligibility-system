@@ -53,7 +53,7 @@ src/main/java/com/jobeligibility/
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ubuntu-assist/job-eligibility-system.git
    cd job-eligibility-system
    ```
 
