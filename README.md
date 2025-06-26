@@ -4,7 +4,7 @@ A professional Java application that evaluates job eligibility based on candidat
 
 ## 🎯 Problem Statement
 
-Given a candidate with specific possessions (bike and driving license), determine which companies they can work for from a list of 10,000 companies, each with different job requirements.
+Given a candidate with specific possessions (bike and driving license), determine which companies they can work for from a list of 10 companies, each with different job requirements.
 
 ### Example Requirements:
 
